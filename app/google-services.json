@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "158951472382",
+    "firebase_url": "https://nganya-tracker.firebaseio.com",
+    "project_id": "nganya-tracker",
+    "storage_bucket": "nganya-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158951472382:android:94f8a75c3f8434a299b9af",
+        "android_client_info": {
+          "package_name": "com.davymutiso.tracknganyaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158951472382-ded0ph9q04eu9qlqt8qbd0gr7kghm0bp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.davymutiso.tracknganyaapp",
+            "certificate_hash": "eb7bf79a7a8b0ee7fb1ca32432a9114ee70ad4a6"
+          }
+        },
+        {
+          "client_id": "158951472382-mom679cdrkdu6maoar3c4hot6fcfpk07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2Us58wnMjA1O3avFQC6_nFfDumc98MCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158951472382-mom679cdrkdu6maoar3c4hot6fcfpk07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158951472382:android:4b8c4d68275bc7c499b9af",
+        "android_client_info": {
+          "package_name": "com.example.tracknganyakenya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158951472382-ncegbskce2hlrqjv9gn45rkb89s8lok0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tracknganyakenya",
+            "certificate_hash": "7d05b6fb1552475540a9b0fdc2ee35dbd49b77eb"
+          }
+        },
+        {
+          "client_id": "158951472382-mom679cdrkdu6maoar3c4hot6fcfpk07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2Us58wnMjA1O3avFQC6_nFfDumc98MCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158951472382-mom679cdrkdu6maoar3c4hot6fcfpk07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158951472382:android:923a42e6c0ccfc9599b9af",
+        "android_client_info": {
+          "package_name": "com.kenyankoda.nganyatrackerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158951472382-mom679cdrkdu6maoar3c4hot6fcfpk07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2Us58wnMjA1O3avFQC6_nFfDumc98MCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158951472382-mom679cdrkdu6maoar3c4hot6fcfpk07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
